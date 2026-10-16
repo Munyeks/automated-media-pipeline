@@ -1,0 +1,17 @@
+# Lingkungan Virtual (Virtual Environment)
+env/
+
+# Konfigurasi Rahasia (Jangan sampai API/Cookies bocor)
+.env
+
+# Folder Output Hasil Unduhan
+downloads/
+
+# Log Aplikasi & Antrean Dinamis
+app.log
+urls.txt
+
+# File Cache bawaan Python
+__pycache__/
+*.pyc
+*.pyo
